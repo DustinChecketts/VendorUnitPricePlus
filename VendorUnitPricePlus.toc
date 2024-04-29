@@ -1,0 +1,10 @@
+## Interface: 40400
+## Title: VendorUnitPricePlus
+## Version: 1.0.0
+## Author: StormtrooperTK421
+## Notes: Displays the individual unit price of stacked items in the tooltip
+## DefaultState: enabled
+## X-Curse-Project-ID:
+
+VendorUnitPricePlus.lua
+Compat.lua
